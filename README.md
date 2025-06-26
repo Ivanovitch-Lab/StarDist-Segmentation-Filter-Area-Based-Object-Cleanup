@@ -1,4 +1,4 @@
-StarDist Segmentation Filter — Area-Based Object Cleanup
+StarDist Segmentation Filter, Area-Based Object Cleanup
 
 This script filters objects from StarDist-generated segmentation masks based on object size (area), using z-score thresholds on the log-transformed area. The goal is to remove outlier objects that are too small or too large.
 
